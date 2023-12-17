@@ -1,0 +1,52 @@
+/* IMAGE IN CSS */
+/*img{
+  height: 250px;
+  width: 250px;
+}*/
+
+/* ALIGNMENT IMAGES IN CSS*/
+/*img{
+  margin-left: 250px;
+}
+
+img{
+  float: right;
+}*/
+/* CENTERING IMAGE IN CSS */
+/*img{
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin: auto;
+}*/
+
+/* Background images */
+/*body{
+  background: url(/20231116_121004.jpg);
+}*/
+
+/*body{
+  background: url(/20231116_121004.jpg);
+  background-attachment: fixed;
+  background-attachment: scroll;
+}*/
+
+/* BACKGROUND POSITION */
+/*body{
+  background: url(/20231116_121004.jpg);
+  background-attachment: fixed;
+  background-position: left center;
+}*/
+
+/* gradient in css*/
+/*body{
+  background-image: linear-gradient(red, yellow, blue);
+  height: 100vh;
+}*/
+/*.gradient{
+  width: 250px;
+  height: 250px;
+  background-image: linear-gradient(red, yellow);
+  margin: auto;
+}*/
+
